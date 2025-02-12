@@ -3,11 +3,10 @@
 ![primary](https://github.com/user-attachments/assets/e010bf81-fcb6-428e-908d-c9decddddf10)
 
 
-# :metal: Repositories:
+# 📂 Repositories:
 
-
-🤖: fishtechy projects
-- [fishtechy sagemaker pipelines](https://github.com/shrigsuman/fishtechy-sagemaker-pipelines)
+![image(3)](https://github.com/user-attachments/assets/ae0abf61-f273-4bc1-a18a-0791e2901b43) **fishtechy projects**
+  - [fishtechy sagemaker pipelines](https://github.com/shrigsuman/fishtechy-sagemaker-pipelines)
 
 ## :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=s-4-m-a-n&theme=horizon&hide_border=true&dates=DDCC25)](https://git.io/streak-stats)
